@@ -1,0 +1,151 @@
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe.config
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\Dash4572.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Memory.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Memory.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csprojAssemblyReference.cache
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Form1.resources
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.exe
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\obj\Debug\Dash4572.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\NetworkTables-master\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.exe
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.pdb
+C:\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe.config
+C:\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe
+C:\NetworkTables-master\Dash4572\bin\Debug\Dash4572.pdb
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Memory.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.xml
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Memory.xml
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csprojAssemblyReference.cache
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Form1.resources
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csprojAssemblyReference.cache
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Form1.resources
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.exe
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe.config
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\Dash4572.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Memory.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Memory.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bill Kinahan\Documents\FRC2020\Dashboard\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csprojAssemblyReference.cache
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Form1.resources
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Memory.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.xml
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Memory.xml
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe.config
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Desktop\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe.config
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Memory.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Buffers.xml
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Memory.xml
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csprojAssemblyReference.cache
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Form1.resources
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CoreCompileInputs.cache
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Desktop\2020 Season Saved Items\wpk Dashboard Update\NetworkTables-master\Dash4572\obj\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.Properties.Resources.resources
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.csproj.GenerateResource.cache
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.csproj.CoreCompileInputs.cache
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\Dash4572.exe.config
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\Dash4572.exe
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\Dash4572.pdb
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.NetworkTables.Core.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.Utilities.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Buffers.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Memory.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.NetworkTables.Core.DesktopLibraries.pdb
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.NetworkTables.Core.pdb
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\FRC.NetworkTables.Core.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Buffers.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Memory.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.csproj.CopyComplete
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.DashboardDisplay.resources
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\AForge.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\AForge.Video.dll
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\AForge.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\AForge.Video.xml
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\bin\Debug\Dash4572.config
+C:\Users\Team4572Admin\Documents\Robotics Camp\Vision Dashboard\Dash4572\obj\Debug\Dash4572.csproj.AssemblyReference.cache
